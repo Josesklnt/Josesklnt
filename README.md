@@ -1,4 +1,4 @@
-# Hola, soy [José Escalante]
+# Hola, soy José Escalante
 ### Software Solutions & IIoT Specialist | AI-Augmented Development | IT/OT Convergence
 
 Ingeniero en Computación con **+25 años de trayectoria profesional**. Mi enfoque actual combina la robustez de la automatización industrial con la agilidad de la Inteligencia Artificial para entregar soluciones críticas de alta eficiencia.
@@ -27,4 +27,6 @@ Ingeniero en Computación con **+25 años de trayectoria profesional**. Mi enfoq
 ## Actividad Técnica
 *(Nota: Mis proyectos comerciales y de planta son privados por confidencialidad (NDAs), pero mi frecuente actividad refleja mi compromiso con la entrega continua).*
 
-📫 **Contacto Freelance:** [www.linkedin.com/in/automatizacion-joseaescalante] | [jescalante2005@hotmail.com]
+📫 **Contacto Freelance:** 
+www.linkedin.com/in/automatizacion-joseaescalante
+jescalante2005@hotmail.com
