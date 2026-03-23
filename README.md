@@ -1,7 +1,10 @@
 # Hola, soy José Escalante
-### Software Solutions & IIoT Specialist | AI-Augmented Development | IT/OT Convergence
+### Ingeniero de Automatizacion  Industrial | PLC | HMI | SCADA | Integrador SCADA / MES | Desarrollo de Software Asistido por IA
 
-Ingeniero en Computación con **+25 años de trayectoria profesional**. Mi enfoque actual combina la robustez de la automatización industrial con la agilidad de la Inteligencia Artificial para entregar soluciones críticas de alta eficiencia.
+Ingeniero de Automatizacion  Industrial | PLC | HMI | SCADA | Desarrollador de Integraciones SCADA / MES | Desarrollo de Software Asistido por IA
+
+Diseño soluciones donde la robustez de la Automatización Industrial (OT) se fusiona con la agilidad del desarrollo de Software Moderno (IT). Mi valor diferencial radica en la experiencia crítica: entiendo el lenguaje de las máquinas en planta y poseo la visión para conectarlas a ecosistemas digitales escalables. 
+Mi enfoque actual se centra en el AI Assisted Development, utilizando la Inteligencia Artificial Generativa (GenAI) no solo para optimizar ciclos de entrega, sino para garantizar la calidad y seguridad en entornos de misión crítica. Busco retos globales donde mi capacidad de diseño de sistemas, visión estratégica y dominio de la convergencia digital transformen la operatividad en resultados de alto nivel.
 
 ---
 
@@ -9,7 +12,7 @@ Ingeniero en Computación con **+25 años de trayectoria profesional**. Mi enfoq
 
 - **Industrial & IIoT:** Convergencia IT/OT, SCADA, PLC, MODBUS, MQTT, Node-RED, Telemetría Industrial.
 - **Software & Data:** JS, PHP, Python (AI-Augmented), SQL & MariaDB, Arquitectura de Soluciones SaaS.
-- **AI-Augmented Workflow:** Optimización de lógica compleja y automatización de procesos mediante IA Generativa (Prompt Engineering & AI Agents).
+- **AI-Assisted Workflow:** Optimización de lógica compleja y automatización de procesos mediante IA Generativa (Prompt Engineering & AI Agents).
 - **Security:** Certified in Cybersecurity (ISC2).
 
 ---
@@ -25,7 +28,16 @@ Ingeniero en Computación con **+25 años de trayectoria profesional**. Mi enfoq
 ---
 
 ## Actividad Técnica
+
+- **ABC:** Automatización....
+- **ABC:** Automatización....
+- **ABC:** Automatización....
+- **ABC:** Automatización....
+- **ABC:** Automatización....
+  
 *(Nota: Mis proyectos comerciales y de planta son privados por confidencialidad (NDAs), pero mi frecuente actividad refleja mi compromiso con la entrega continua).*
+
+---
 
 📫 **Contacto Freelance:** 
 www.linkedin.com/in/automatizacion-joseaescalante
