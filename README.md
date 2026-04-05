@@ -17,7 +17,7 @@ Mi enfoque actual se centra en el AI Assisted Development, utilizando la Intelig
 
 ---
 
-## Proyectos y Logros de Arquitectura
+## Proyectos y Arquitectura
 
 - **Migración Masiva de Datos:** Automatización del traspaso de **5,000+ bases de datos** clínicas (.mdb a MariaDB) mediante scripts avanzados en Python e IA.
 - **Ecosistemas IIoT:** Implementación de monitoreo en tiempo real y cálculo de KPIs industriales (MTTR/MTBF) con Dashboards interactivos.
@@ -27,14 +27,6 @@ Mi enfoque actual se centra en el AI Assisted Development, utilizando la Intelig
 
 ---
 
-## Actividad Técnica
-
-- **ABC:** Automatización....
-- **ABC:** Automatización....
-- **ABC:** Automatización....
-- **ABC:** Automatización....
-- **ABC:** Automatización....
-  
 *(Nota: Mis proyectos comerciales y de planta son privados por confidencialidad (NDAs), pero mi frecuente actividad refleja mi compromiso con la entrega continua).*
 
 ---
