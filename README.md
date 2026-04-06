@@ -32,5 +32,5 @@ Mi enfoque actual se centra en el AI Assisted Development, utilizando la Intelig
 ---
 
 📫 **Contacto Freelance:** 
-www.linkedin.com/in/automatizacion-joseaescalante
+www.linkedin.com/in/joseaescalante
 jescalante2005@hotmail.com
