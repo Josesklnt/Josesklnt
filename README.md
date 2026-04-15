@@ -1,5 +1,5 @@
 # Hola, soy José Escalante
-### Especialista Senior ICS & SCADA | Inteligencia de Planta | Sistemas MES a la medida | Arquitecto de Convergencia OT/IT 
+### Especialista Senior ICS & SCADA | Arquitecto de Convergencia OT/IT | Inteligencia de Planta | Sistemas MES a la medida
 
 Cierro la brecha entre el control industrial y la toma de decisiones estratégicas. Mi enfoque NO es implementar software comercial rígido, sino construir soluciones de Inteligencia de Planta a medida que se adaptan exactamente a la operación.
 Con dominio profundo en el mundo OT (PLC, DCS, SCADA) y agilidad en el mundo IT (HTML, CSS, JS, PHP puros y Python), junto a herramientas Low-Code como Node-RED, desarrollo ecosistemas que transforman señales eléctricas en KPIs y Dashboards de gestión en tiempo real.
