@@ -1,26 +1,26 @@
-# Hola, soy José Escalante
-### Especialista Senior ICS & SCADA | Arquitecto de Convergencia OT/IT | Inteligencia de Planta | Sistemas MES a la medida
+# Hola, soy J. Escalante
+### Soluciones ágiles/económicas con IA y código vanilla | Industria 4.0 con Softare Libre/sin licencias | Capacitación
 
-Cierro la brecha entre el control industrial y la toma de decisiones estratégicas. Mi enfoque NO es implementar software comercial rígido, sino construir soluciones de Inteligencia de Planta a medida que se adaptan exactamente a la operación.
-Con dominio profundo en el mundo OT (PLC, DCS, SCADA) y agilidad en el mundo IT (HTML, CSS, JS, PHP puros y Python), junto a herramientas Low-Code como Node-RED, desarrollo ecosistemas que transforman señales eléctricas en KPIs y Dashboards de gestión en tiempo real.
+Mi enfoque NO es implementar software comercial rígido, sino construir soluciones con Inteligencia a medida que se adaptan exactamente a la operación.
+Con dominio profundo en IT/OT, Desarrollo asistido por IA, Low-Code, Arquitectura de sistemas, Cybersecurity, KPIs, Dashboards, soluciono problemas rapidamente y lo acompaño en las mejoras.
 
 ¿Qué me diferencia?
 
 * Independencia de Frameworks: Programo en lenguajes puros, lo que garantiza sistemas ligeros, escalables y sin dependencias externas.
 
-* Visión Administrativa: No solo conecto máquinas; diseño la lógica de administración de planta para optimizar la eficiencia operativa.
+* Visión Integral: No solo diseño la administración de su pyme, empresa, comercio, planta, ong para optimizar la eficiencia operativa/administrativa sino que tambien conecto y automatizo máquinas.
 
-* Desarrollo Ágil con IA: Utilizo Inteligencia Artificial como copiloto avanzado para acelerar la creación de código y la integración de sistemas complejos vía Node-RED.
+* Desarrollo Ágil con IA: Utilizo Inteligencia Artificial como copiloto avanzado para acelerar la creación de código y la integración de/con sistemas complejos.
 
-No busco simplemente automatizar procesos, sino digitalizar la inteligencia de la manufactura para que la planta hable el lenguaje de la gerencia.
+Acá lo espero si quiere mejorar o si tiene un problema y no consigue quien lo resuelva, tengo mi metodologia y ofrezco resultados reales.
 
 ---
 
 ## Expertise & Stack Tecnológico
 
+- **Software & Data:** JS, PHP, Python, SQL, MariaDB, InnoDB, Node-RED & SQLite.
 - **Industrial & IIoT:** Convergencia IT/OT, SCADA, PLC, MODBUS, MQTT, Telemetría Industrial.
-- **Software & Data:** JS, PHP, Python, SQL & MariaDB, Node-RED & SQLite.
-- **AI-Assisted Workflow:** Utilizo Inteligencia Artificial como copiloto avanzado para acelerar la creación de código y la integración de sistemas complejos.
+- **AI-Assisted Workflow:** Utilizo Inteligencia Artificial como copiloto avanzado (Claude, Gemini, Qwen).
 
 ---
 
